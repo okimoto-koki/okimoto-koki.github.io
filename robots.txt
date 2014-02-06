@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://okimoto-koki.github.io/sitemap.xml 
