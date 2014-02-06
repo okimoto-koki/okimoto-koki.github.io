@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[三日坊主ブログ]]></title>
-  <link href="http://okimoto-koki.github.io/atom.xml" rel="self"/>
-  <link href="http://okimoto-koki.github.io/"/>
-  <updated>2014-02-07T06:54:21+09:00</updated>
-  <id>http://okimoto-koki.github.io/</id>
+  <link href="http://kota777.github.io/atom.xml" rel="self"/>
+  <link href="http://kota777.github.io/"/>
+  <updated>2014-02-07T07:01:14+09:00</updated>
+  <id>http://kota777.github.io/</id>
   <author>
     <name><![CDATA[kota777]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
-    <link href="http://okimoto-koki.github.io/blog/2014/02/07/test/"/>
+    <link href="http://kota777.github.io/blog/2014/02/07/test/"/>
     <updated>2014-02-07T06:39:27+09:00</updated>
-    <id>http://okimoto-koki.github.io/blog/2014/02/07/test</id>
+    <id>http://kota777.github.io/blog/2014/02/07/test</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
